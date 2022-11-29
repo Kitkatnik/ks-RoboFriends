@@ -4,7 +4,7 @@
 
 ![screely-1668830807943](https://user-images.githubusercontent.com/5871075/202833441-f72865c9-b37f-4cea-856b-3bbc51dfea40.png)
 
-[Click Here to Demo](https://kitkatnik.github.io/ks-robofriends/)
+[Click Here to Demo](https://robofriends-947i.onrender.com)
 
 </div>
 
